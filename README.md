@@ -4,3 +4,5 @@
 <p align="center">
   <img src="https://github.com/nicholaschew11/BlackjackVision/blob/master/public/glasses.png?raw=true" width="60%" />
 </p>
+
+Watch Video: https://youtu.be/RBks3XeU06M
